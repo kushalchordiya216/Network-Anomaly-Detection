@@ -1,3 +1,5 @@
 *.css
 *.js
-*.pcap
+*.pyc
+migrations/
+__pycache__/
